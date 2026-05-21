@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alcazarf
-- 🌱 I’m currently working on data migration
+- 🌱 I’m currently working on data solutions for BMS project
 
 <!---
 alcazarf/alcazarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
